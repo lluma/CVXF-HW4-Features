@@ -64,7 +64,7 @@ Notice: 表格的Keypoint僅代表數量，Match rate計算是取交集率
 ### 5. Do additional image processing by Photoshop
 [TODO]
     我們的影片是將所有圖片進行輸出後再合成的，所以我們有可以再對這些圖片進行微調，我們利用了Photoshop將這些圖片的背景進行模糊化，我們是利用很簡單的動態模糊來調整，這樣可以達到模擬相機往前的效果，也可以將一些銜接的部分變得比較不明顯。
-![](FCjlh8.gif)
+![](ezgif-4-2a78730f9e44.gif)
 
 ＠新的GIF太大，要從github上來上傳。
 
